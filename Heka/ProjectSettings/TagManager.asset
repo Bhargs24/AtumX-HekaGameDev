@@ -41,3 +41,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Slots
+    uniqueID: 2746448323
+    locked: 0
+  - name: Components
+    uniqueID: 1230391731
+    locked: 0
